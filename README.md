@@ -3,6 +3,8 @@ NAME : P ADITYA NAGA SAI
 REG NO : 212223110036
 ```
 # Hospital-Management-System
+### AIM:
+To develop the Hospital management System using Star UML tool.
 ### USE CASE DIAGRAM
 ![image](https://github.com/user-attachments/assets/7c202a26-08c1-4246-a961-dc05dcfb6eea)
 

@@ -20,5 +20,5 @@ To develop the Hospital management System using Star UML tool.
 ### ACTIVITY DIAGRAM
 ![image](https://github.com/user-attachments/assets/bd9e1a7f-7743-4cb9-98c3-5833886912e5)
 
-RESULT
+### RESULT:
 The UML Diagrams for Hospital Management System have been successfully created and implemented using StarUML.
